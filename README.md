@@ -1,2 +1,2 @@
 # Java
-Snake and ladder
+data strctures
